@@ -4,6 +4,7 @@ The SLP Paper Wallet Landing Page
 https://wallet.bitchslap.tech
 
 A client-side Simple Ledger Protocol (SLP) wallet generator producing customizable paper wallets.
+SLP paper wallet generator was forked from the Bitcoin dot com paper wallet generator.
 
 The Bitcoin.com Paper Wallet is based on the open source [bitaddress.org repository.](https://github.com/pointbiz/bitaddress.org) Private Keys are generated client-side. For better security, download a local copy and run on an offline machine. 
 
