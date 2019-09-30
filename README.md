@@ -3,6 +3,12 @@ SLP Paper Wallet
 The SLP Paper Wallet Landing Page
 https://wallet.bitchslap.tech
 
+Video demonstration
+https://www.youtube.com/watch?v=-FlOgBjZ4pQ&t=0s
+
+Tutorial on how to change wallet templates
+https://www.youtube.com/watch?v=vqtSRXeKgxE
+
 A client-side Simple Ledger Protocol (SLP) wallet generator producing customizable paper wallets.
 SLP paper wallet generator was forked from the Bitcoin dot com paper wallet generator.
 
