@@ -1,3 +1,4 @@
+DO NOT RUN GENERATOR ONLINE
 SLP Paper Wallet
 
 The SLP Paper Wallet Landing Page
