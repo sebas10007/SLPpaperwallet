@@ -1,4 +1,7 @@
 DO NOT RUN GENERATOR ONLINE
+
+UPDATE: use file slpofflineslpwif to generate private keys begining with "slp:<wif>". This ismeant to prevent non SLP enabled wallets from sweeping and burning tokens.
+  
 SLP Paper Wallet
 
 The SLP Paper Wallet Landing Page
